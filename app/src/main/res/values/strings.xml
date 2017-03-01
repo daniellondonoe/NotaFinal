@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotaFinal</string>
+    <string name="Titulo">Digite sus notas:</string>
+    <string name="Practicas">Práctias (60%)= </string>
+    <string name="Av1">Avance 1 (5%)= </string>
+    <string name="Av2">Avance 2 (7%)= </string>
+    <string name="Av3">Avance 3 (8%)= </string>
+    <string name="Final">Final (20%)= </string>
+</resources>
